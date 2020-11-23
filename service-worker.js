@@ -1,7 +1,7 @@
 const CACHE_NAME = "LigaInggris2020/21";
 let urlToCache = [  
 
-    
+    <link rel="preconnect" href="https://fonts.googleapis.com"></link>,
     './',
     './css/materialize.min.css',
     './css/style.css',
