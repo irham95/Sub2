@@ -1,0 +1,26 @@
+{
+    "name": "LigaInggris2020/21",
+    "short_name": "LI",
+    "description": "Aplikasi klasemen dan pertandingan liga Inggris",
+    "background_color": "#ffffff",
+    "theme_color": "#263238",
+    "display": "standalone",
+    "scope": "./",
+    "start_url": "./index.html",
+    "gcm_sender_id": "548604067402",
+    "icons": [
+        {
+            "src": "./images/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./images/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]  
+      
+}
